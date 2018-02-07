@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>patient_search_result_table.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: #999999; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { color: rgb(0,0,0); }
+.s2 { color: rgb(0,128,128); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+patient_search_result_table.py</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<span class="s0">from </span><span class="s1">pages.base_page </span><span class="s0">import </span><span class="s1">BasePage 
+</span><span class="s0">from </span><span class="s1">pages.table </span><span class="s0">import </span><span class="s1">WebTable 
+ 
+ 
+</span><span class="s0">class </span><span class="s1">PatientSearchResultTable(BasePage): 
+ 
+    </span><span class="s0">def </span><span class="s1">get_web_table(self): 
+        </span><span class="s0">return </span><span class="s1">WebTable(</span><span class="s2">&quot;//div[@role='grid']&quot;</span><span class="s1">) 
+ 
+    </span><span class="s0">def </span><span class="s1">open_eye_for_patient(self, last_name, first_name, dob=</span><span class="s0">None</span><span class="s1">, mrn=</span><span class="s0">None</span><span class="s1">): 
+        table = self.get_web_table() 
+        row_search_criteria = {</span><span class="s2">&quot;Last Name&quot;</span><span class="s1">: last_name, </span><span class="s2">&quot;First Name&quot;</span><span class="s1">: first_name} 
+        </span><span class="s0">if </span><span class="s1">dob: 
+            row_search_criteria[</span><span class="s2">&quot;DOB&quot;</span><span class="s1">] = dob 
+        </span><span class="s0">if </span><span class="s1">mrn: 
+            row_search_criteria[</span><span class="s2">&quot;MRN&quot;</span><span class="s1">] = mrn 
+ 
+        row = table.find_row_by_columns(row_search_criteria) 
+ 
+        </span><span class="s0">if not </span><span class="s1">row: 
+            </span><span class="s0">raise </span><span class="s1">AssertionError(</span><span class="s2">&quot;There is no row that match search criteria&quot;</span><span class="s1">) 
+        row.find_element_by_xpath(</span><span class="s2">&quot;.//a[@class='glyphicon glyphicon-eye-open']&quot;</span><span class="s1">).click()</span></pre>
+</body>
+</html>

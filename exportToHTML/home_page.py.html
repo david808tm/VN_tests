@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>home_page.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: #999999; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { color: rgb(0,0,0); }
+.s2 { color: rgb(0,128,128); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+home_page.py</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<span class="s0">from </span><span class="s1">pages.base_page </span><span class="s0">import </span><span class="s1">BasePage, BaseSteps 
+</span><span class="s0">from </span><span class="s1">web_driver_bindings.web_driver_binding </span><span class="s0">import </span><span class="s1">WebDriverBinding 
+ 
+</span><span class="s2">&quot;&quot;&quot; 
+1) import webdriver binding 
+2) create HomePage class, to verify that Home Page and Log out elements  
+present on page. In __init__ we tie HomePage to WebDriverBinding class 
+3) create HomePageSteps, to click on Logout element from HomePage 
+class. We tie HomePageSteps to the HomePage class 
+&quot;&quot;&quot;</span><span class="s1"> 
+ 
+ 
+</span><span class="s0">class </span><span class="s1">HomePage(BasePage): 
+    </span><span class="s0">def </span><span class="s1">__init__(self): 
+        super(HomePage, self).__init__() 
+        self.binding = WebDriverBinding() 
+ 
+    </span><span class="s0">def </span><span class="s1">web_page_title(self): 
+        </span><span class="s0">return </span><span class="s1">self.binding.find_by_xpath(</span><span class="s2">&quot;//div/h3[contains(text(), 'Home Page')]&quot;</span><span class="s1">) 
+ 
+    </span><span class="s0">def </span><span class="s1">get_provider_portal_link(self): 
+        </span><span class="s0">return </span><span class="s1">self.binding.find_by_clickable(</span><span class="s2">&quot;//div[@class='list-group app-list']//a[@href='/portal']&quot;</span><span class="s1">) 
+ 
+ 
+</span><span class="s0">class </span><span class="s1">HomePageSteps(BaseSteps): 
+    </span><span class="s0">def </span><span class="s1">__init__(self, ): 
+        super(HomePageSteps, self).__init__(HomePage()) 
+ 
+    </span><span class="s0">def </span><span class="s1">go_to_provider_portal(self): 
+        self.page.get_provider_portal_link().click() 
+</span></pre>
+</body>
+</html>

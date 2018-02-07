@@ -1,0 +1,54 @@
+<html>
+<head>
+<title>table.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: #999999; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { color: rgb(0,0,0); }
+.s2 { color: rgb(0,128,128); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+table.py</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<span class="s0">from </span><span class="s1">pages.base_page </span><span class="s0">import </span><span class="s1">BasePage 
+ 
+ 
+</span><span class="s0">class </span><span class="s1">WebTable(BasePage): 
+    </span><span class="s0">def </span><span class="s1">__init__(self, xpath): 
+        super(WebTable, self).__init__() 
+        self.binding.wait_until_table_loaded(xpath) 
+        self.web_element = self.binding.find_by_xpath(xpath) 
+ 
+    </span><span class="s0">def </span><span class="s1">find_row_by_columns(self, column_names): 
+        rows = self.web_element.find_elements_by_xpath(</span><span class="s2">&quot;.//div[@class = 'ui-grid-row ng-scope']&quot;</span><span class="s1">) 
+        </span><span class="s0">for </span><span class="s1">row </span><span class="s0">in </span><span class="s1">rows: 
+            row_found = </span><span class="s0">True</span><span class="s1"> 
+            columns = row.find_elements_by_xpath(</span><span class="s2">&quot;.//div[@role = 'gridcell']&quot;</span><span class="s1">) 
+            </span><span class="s0">for </span><span class="s1">column_name, value </span><span class="s0">in </span><span class="s1">column_names.items(): 
+                c_index = self.find_index_by_name(column_name) 
+                column = columns[c_index] 
+                </span><span class="s0">if </span><span class="s1">column.text != value: 
+                    row_found = </span><span class="s0">False</span><span class="s1"> 
+                    </span><span class="s0">break</span><span class="s1"> 
+            </span><span class="s0">if </span><span class="s1">row_found: 
+                </span><span class="s0">return </span><span class="s1">row 
+ 
+    </span><span class="s0">def </span><span class="s1">find_index_by_name(self, name): 
+        header = self.web_element.find_element_by_xpath(</span><span class="s2">&quot;.//div[@class = 'ui-grid-header ng-scope']&quot;</span><span class="s1">) 
+        header_elements = header.find_elements_by_xpath(</span><span class="s2">&quot;.//div[contains(@class, 'ui-grid-cell')]&quot;</span><span class="s1">) 
+        </span><span class="s0">for </span><span class="s1">idx, val </span><span class="s0">in </span><span class="s1">enumerate(header_elements): 
+            </span><span class="s0">if </span><span class="s1">val.text == name: 
+                </span><span class="s0">return </span><span class="s1">idx 
+ 
+ 
+    </span><span class="s0">def </span><span class="s1">get_rows(self): 
+        rows = self.web_element.find_elements_by_xpath(</span><span class="s2">&quot;.//div[@class = 'ui-grid-row ng-scope']&quot;</span><span class="s1">) 
+        </span><span class="s0">return </span><span class="s1">rows</span></pre>
+</body>
+</html>

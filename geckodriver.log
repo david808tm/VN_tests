@@ -1,0 +1,514 @@
+1515248159192	geckodriver	INFO	geckodriver 0.18.0
+1515248159197	geckodriver	INFO	Listening on 127.0.0.1:50533
+1515248162649	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515248165639	Marionette	INFO	Listening on port 50539
+1515248165855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248166141	Marionette	DEBUG	loaded listener.js
+1515248166203	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:16:06.218 plugin-container[930:21242] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515248166563	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515248166563	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515248167968	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515248167972	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515248169080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515248170356	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515248170446	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515248170447	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515248171978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515248171981	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515248173785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515248254186	geckodriver	INFO	geckodriver 0.18.0
+1515248254191	geckodriver	INFO	Listening on 127.0.0.1:50752
+1515248255298	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515248257991	Marionette	INFO	Listening on port 50761
+1515248258135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248258532	Marionette	DEBUG	loaded listener.js
+1515248258571	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:17:38.691 plugin-container[942:22616] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x753b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515248258937	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515248258938	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515248260242	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515248260246	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515248261252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515248262087	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515248262172	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515248262180	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515248263846	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515248263849	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515248265892	Marionette	INFO	Ceased listening
+1515248266021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515248271782	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515248636760	geckodriver	INFO	geckodriver 0.18.0
+1515248636765	geckodriver	INFO	Listening on 127.0.0.1:51197
+1515248637863	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515248640496	Marionette	INFO	Listening on port 51208
+1515248640596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248641097	Marionette	DEBUG	loaded listener.js
+1515248641130	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:24:01.300 plugin-container[981:26021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x770f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515248641584	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515248641584	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515248643090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-stage.verinovum.com/#/login"
+1515248643094	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-stage.verinovum.com/#/login"
+1515248644027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515248645153	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-stage.verinovum.com/#/"
+1515248645246	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-stage.verinovum.com/#/"
+1515248645248	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-stage.verinovum.com/#/"
+1515248647159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-stage.verinovum.com/portal/"
+1515248647162	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-stage.verinovum.com/portal/"
+1515248649163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1515249784231	geckodriver	INFO	geckodriver 0.18.0
+1515249784235	geckodriver	INFO	Listening on 127.0.0.1:52242
+1515249785337	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515249787961	Marionette	INFO	Listening on port 52251
+1515249788287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515249788476	Marionette	DEBUG	loaded listener.js
+1515249788503	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:43:08.640 plugin-container[1084:35878] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x882b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515249788850	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515249788850	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515249790296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-stage.verinovum.com/#/login"
+1515249790301	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-stage.verinovum.com/#/login"
+1515249791303	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-stage.verinovum.com/#/"
+1515249791955	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-stage.verinovum.com/#/"
+1515249792109	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-stage.verinovum.com/#/"
+1515249792111	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-stage.verinovum.com/#/"
+1515249793890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-stage.verinovum.com/portal/"
+1515249793894	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-stage.verinovum.com/portal/"
+1515249795697	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515249855519	geckodriver	INFO	geckodriver 0.18.0
+1515249855524	geckodriver	INFO	Listening on 127.0.0.1:52430
+1515249856630	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515249859678	Marionette	INFO	Listening on port 52436
+1515249860144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515249860444	Marionette	DEBUG	loaded listener.js
+1515249860864	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:44:20.987 plugin-container[1099:36596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x863b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515249861224	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515249861224	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515249862738	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515249862742	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515249863869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515249864676	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515249866666	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515249866669	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515249868321	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515249868323	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515249870295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515249876157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515249911672	Marionette	INFO	Ceased listening
+1515249912762	geckodriver	INFO	geckodriver 0.18.0
+1515249912767	geckodriver	INFO	Listening on 127.0.0.1:52639
+1515249913867	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515249916786	Marionette	INFO	Listening on port 52645
+1515249917079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515249917330	Marionette	DEBUG	loaded listener.js
+1515249917375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:45:17.424 plugin-container[1107:37723] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8527, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515249917730	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515249917730	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515249919177	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515249919181	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515249920411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515249921354	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515249921450	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515249921452	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515249923214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515249923217	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515249925543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515249931262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250000265	geckodriver	INFO	geckodriver 0.18.0
+1515250000270	geckodriver	INFO	Listening on 127.0.0.1:52893
+1515250000376	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515250003096	Marionette	INFO	Listening on port 52897
+1515250003482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515250004042	Marionette	DEBUG	loaded listener.js
+1515250004066	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:46:44.209 plugin-container[1114:38731] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7823, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515250004443	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515250004443	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515250005864	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515250005869	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515250007290	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250008171	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515250008256	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515250008258	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515250009747	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515250009750	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515250012179	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250018053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250035133	geckodriver	INFO	geckodriver 0.18.0
+1515250035139	geckodriver	INFO	Listening on 127.0.0.1:53066
+1515250036259	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515250093079	geckodriver	INFO	geckodriver 0.18.0
+1515250093083	geckodriver	INFO	Listening on 127.0.0.1:53178
+1515250093183	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515250095806	Marionette	INFO	Listening on port 53182
+1515250096035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515250096499	Marionette	DEBUG	loaded listener.js
+1515250096524	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:48:16.688 plugin-container[1137:41141] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515250096911	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515250096912	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515250098438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515250098442	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515250099513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250100534	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515250100622	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515250100624	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515250102481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515250102485	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515250104727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250110653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250229769	geckodriver	INFO	geckodriver 0.18.0
+1515250229774	geckodriver	INFO	Listening on 127.0.0.1:53446
+1515250230924	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515250233615	Marionette	INFO	Listening on port 53452
+1515250233817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515250234298	Marionette	DEBUG	loaded listener.js
+1515250234324	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:50:34.354 plugin-container[1147:43306] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515250234667	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515250234668	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515250236045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515250236050	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515250237001	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250237581	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515250237672	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515250237674	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515250238311	Marionette	INFO	Ceased listening
+1515250239226	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515250239229	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515250240750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250241405	Marionette	INFO	Ceased listening
+1515250244277	Marionette	INFO	Ceased listening
+1515250246407	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250246752	Marionette	INFO	Ceased listening
+1515250258008	geckodriver	INFO	geckodriver 0.18.0
+1515250258013	geckodriver	INFO	Listening on 127.0.0.1:53605
+1515250258121	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515250260149	Marionette	INFO	Listening on port 53609
+1515250260336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515250260918	Marionette	DEBUG	loaded listener.js
+1515250260942	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-06 06:51:00.983 plugin-container[1155:44277] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7a0f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515250261320	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515250261320	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515250262590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515250262594	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515250263590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250264320	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515250264452	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515250264460	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515250266131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515250266134	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515250268125	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515250273815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515949921451	geckodriver	INFO	geckodriver 0.18.0
+1515949921457	geckodriver	INFO	Listening on 127.0.0.1:61532
+1515949925167	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515949930084	Marionette	INFO	Listening on port 61541
+1515949930405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515949930888	Marionette	DEBUG	loaded listener.js
+1515949931005	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-14 09:12:11.151 plugin-container[9461:2060765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x733b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515949931380	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515949931380	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515949932728	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515949932732	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515949933858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515949934451	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515949934561	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515949934563	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515949936873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515949936877	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515949938520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515949944288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1515950935555	geckodriver	INFO	geckodriver 0.18.0
+1515950935562	geckodriver	INFO	Listening on 127.0.0.1:62441
+1515950936822	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515950940192	Marionette	INFO	Listening on port 62450
+1515950940637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515950940964	Marionette	DEBUG	loaded listener.js
+1515950941120	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-14 09:29:01.281 plugin-container[9560:2075773] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515950941550	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515950941551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515950943212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515950943217	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515950944649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515950945370	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515950945464	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515950945465	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515950947383	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515950947388	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515950950172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515950954972	geckodriver	INFO	geckodriver 0.18.0
+1515950954978	geckodriver	INFO	Listening on 127.0.0.1:62594
+1515950956177	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515950962860	geckodriver	INFO	geckodriver 0.18.0
+1515950962865	geckodriver	INFO	Listening on 127.0.0.1:62644
+1515950963968	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515950967830	Marionette	INFO	Listening on port 62655
+1515950968109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515950968459	Marionette	DEBUG	loaded listener.js
+1515950968522	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-14 09:29:28.643 plugin-container[9574:2076999] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515950968872	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515950968873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515950970375	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515950970378	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515950971792	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515950972643	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515950972772	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515950972773	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515950974752	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515950974755	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515950977358	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515950983190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515951076330	geckodriver	INFO	geckodriver 0.18.0
+1515951076338	geckodriver	INFO	Listening on 127.0.0.1:62914
+1515951077557	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515951081645	Marionette	INFO	Listening on port 62925
+1515951081827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515951082697	Marionette	DEBUG	loaded listener.js
+1515951082763	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-14 09:31:22.926 plugin-container[9587:2078856] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515951083128	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515951083128	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515951084335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515951084342	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515951085354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515951085962	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515951086048	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515951086056	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515951087762	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515951087765	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515951089643	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515951095315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1515952307339	geckodriver	INFO	geckodriver 0.18.0
+1515952307344	geckodriver	INFO	Listening on 127.0.0.1:64041
+1515952307590	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515952311378	Marionette	INFO	Listening on port 64048
+1515952311597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515952312199	Marionette	DEBUG	loaded listener.js
+1515952312350	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-14 09:51:52.721 plugin-container[9657:2096272] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x803b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1515952313123	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515952313123	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515952314588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1515952314595	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1515952315875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515952317415	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1515952317527	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1515952317529	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1515952319308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1515952319311	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1515952322197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515952328056	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515952745917	Marionette	INFO	Ceased listening
+1515952747970	Marionette	INFO	Ceased listening
+1516224528503	geckodriver	INFO	geckodriver 0.18.0
+1516224528511	geckodriver	INFO	Listening on 127.0.0.1:50266
+1516224529990	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1516224532672	Marionette	INFO	Listening on port 50273
+1516224532759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516224532929	Marionette	DEBUG	loaded listener.js
+1516224532974	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-17 13:28:52.996 plugin-container[3370:298538] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516224533236	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516224533236	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516224533951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1516224533955	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1516224534884	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516224535460	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1516224535524	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1516224535526	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1516224536594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1516224536597	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1516224538024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516224543775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2018-01-17 13:43:17.430 plugin-container[3541:311062] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x713b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-17 13:43:40.864 plugin-container[3548:311466] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x883b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516225429507	Marionette	INFO	Ceased listening
+1516226006906	geckodriver	INFO	geckodriver 0.18.0
+1516226006914	geckodriver	INFO	Listening on 127.0.0.1:52877
+1516226008401	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1516226010290	Marionette	INFO	Listening on port 52891
+1516226010361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516226010626	Marionette	DEBUG	loaded listener.js
+1516226010864	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-17 13:53:30.902 plugin-container[3693:320073] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516226011108	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516226011108	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516226011799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1516226011803	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1516226012744	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516226013319	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1516226013381	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1516226013382	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1516226014330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1516226014333	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1516226015721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516226021300	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2018-01-17 13:56:45.249 plugin-container[3818:324258] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x763b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516226206252	Marionette	INFO	Ceased listening
+1516227757907	geckodriver	INFO	geckodriver 0.18.0
+1516227757913	geckodriver	INFO	Listening on 127.0.0.1:56747
+1516227759673	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1516227761366	Marionette	INFO	Listening on port 56758
+1516227761457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516227761574	Marionette	DEBUG	loaded listener.js
+1516227761599	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-17 14:22:41.642 plugin-container[4292:348953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7c23, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516227761846	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516227761846	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516227762616	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1516227762620	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1516227763555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516227764121	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1516227764182	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1516227764189	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1516227764955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1516227764958	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1516227766224	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516227772029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2018-01-17 14:23:47.096 plugin-container[4308:350400] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1516228484371	geckodriver	INFO	geckodriver 0.18.0
+1516228484375	geckodriver	INFO	Listening on 127.0.0.1:58202
+1516228485480	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1516228487064	Marionette	INFO	Listening on port 58211
+1516228487153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516228487277	Marionette	DEBUG	loaded listener.js
+1516228487302	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-17 14:34:47.339 plugin-container[4506:360246] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x7b37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516228487567	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516228487568	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516228488534	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1516228488539	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1516228489455	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/"
+1516228490019	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1516228490080	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1516228490088	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1516228491131	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1516228491134	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1516228492448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516228498045	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516228501897	geckodriver	INFO	geckodriver 0.18.0
+1516228501902	geckodriver	INFO	Listening on 127.0.0.1:58370
+1516228502994	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1516228504642	Marionette	INFO	Listening on port 58381
+1516228504706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516228504875	Marionette	DEBUG	loaded listener.js
+1516228504900	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2018-01-17 14:35:04.936 plugin-container[4515:360751] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1516228505142	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516228505142	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516228505957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1516228505961	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1516228506875	Marionette	DEBUG	Received DOM event "hashchange" for "https://iehie-train.verinovum.com/#/"
+1516228507438	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1516228507503	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1516228507510	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1516228508546	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1516228508549	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1516228509930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1516228515605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1516230365431	Marionette	INFO	Ceased listening
+1516230367829	Marionette	INFO	Ceased listening
+1516230370269	Marionette	INFO	Ceased listening
+1518026999214	geckodriver	INFO	geckodriver 0.18.0
+1518026999220	geckodriver	INFO	Listening on 127.0.0.1:56906
+1518027001595	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1518027003756	Marionette	INFO	Listening on port 56915
+1518027003829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518027003990	Marionette	DEBUG	loaded listener.js
+2018-02-07 10:10:04.046 plugin-container[64123:3539938] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x843b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1518027004065	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1518027006138	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1518027006138	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1518027006836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/#/login"
+1518027006840	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/#/login"
+1518027007769	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518027008343	Marionette	DEBUG	Received DOM event "beforeunload" for "https://iehie-train.verinovum.com/#/"
+1518027010726	Marionette	DEBUG	Received DOM event "pagehide" for "https://iehie-train.verinovum.com/#/"
+1518027010727	Marionette	DEBUG	Received DOM event "unload" for "https://iehie-train.verinovum.com/#/"
+1518027011678	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://iehie-train.verinovum.com/portal/"
+1518027011681	Marionette	DEBUG	Received DOM event "pageshow" for "https://iehie-train.verinovum.com/portal/"
+1518027014323	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1518027019908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************

@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>logout_page.py</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+.ln { color: #999999; font-weight: normal; font-style: normal; }
+.s0 { color: rgb(0,0,128); font-weight: bold; }
+.s1 { color: rgb(0,0,0); }
+.s2 { color: rgb(0,128,128); font-weight: bold; }
+</style>
+</head>
+<BODY BGCOLOR="#ffffff">
+<TABLE CELLSPACING=0 CELLPADDING=5 COLS=1 WIDTH="100%" BGCOLOR="#c0c0c0" >
+<TR><TD><CENTER>
+<FONT FACE="Arial, Helvetica" COLOR="#000000">
+logout_page.py</FONT>
+</center></TD></TR></TABLE>
+<pre>
+<span class="s0">from </span><span class="s1">web_driver_bindings.web_driver_binding </span><span class="s0">import </span><span class="s1">WebDriverBinding 
+ 
+ 
+</span><span class="s0">class </span><span class="s1">LogoutPage: 
+ 
+    </span><span class="s0">def </span><span class="s1">__init__(self): 
+        self.binding = WebDriverBinding() 
+        self.binding.open_page(</span><span class="s2">&quot;https://iehie-train.verinovum.com/#/login&quot;</span><span class="s1">) 
+ 
+    </span><span class="s0">def </span><span class="s1">findUserNameField(self): 
+        </span><span class="s0">return </span><span class="s1">self.binding.find_by_id(</span><span class="s2">&quot;userName&quot;</span><span class="s1">) 
+ 
+    </span><span class="s0">def </span><span class="s1">findPasswordField(self): 
+        </span><span class="s0">return </span><span class="s1">self.binding.find_by_id(</span><span class="s2">&quot;password&quot;</span><span class="s1">) 
+ 
+    </span><span class="s0">def </span><span class="s1">findButton(self): 
+        </span><span class="s0">return </span><span class="s1">self.binding.find_by_id(</span><span class="s2">&quot;submit&quot;</span><span class="s1">) 
+ 
+    </span><span class="s0">def </span><span class="s1">get_bindings(self): 
+        </span><span class="s0">return </span><span class="s1">self.binding 
+</span></pre>
+</body>
+</html>
